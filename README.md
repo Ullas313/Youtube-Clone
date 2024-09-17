@@ -1,8 +1,7 @@
 # YouTube-Clone
 
 Direct Access:
-[ https://ullas313.github.io/Youtube-Clone/](  https://ullas313.github.io/Youtube-Clone/)
-
+[https://ullas313.github.io/Youtube-Clone/](https://ullas313.github.io/Youtube-Clone/)
 Overview ✨
 This project is a clone of the YouTube user interface, built using HTML and CSS. The focus of the project is to replicate the layout and design of YouTube's home page, including the header, sidebar, and video grid sections.
 
